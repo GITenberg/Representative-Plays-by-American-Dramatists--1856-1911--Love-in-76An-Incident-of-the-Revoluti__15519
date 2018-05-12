@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6101'
     url: http://www.gutenberg.org/2009/agents/6101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15519#Representative-Plays-by-American-Dramatists--1856-1911--Love-in-76An-Incident-of-the-Revoluti_
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
