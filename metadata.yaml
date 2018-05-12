@@ -1,0 +1,32 @@
+_repo: Representative-Plays-by-American-Dramatists--1856-1911--Love-in-76An-Incident-of-the-Revoluti__15519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bunce, Oliver Bell
+    aliases:
+    - Bunce, O. B. (Oliver Bell)
+    - Bunce, Oliver B. (Oliver Bell)
+    birthdate: 1828
+    deathdate: 1890
+    gutenberg_agent_id: '6101'
+    url: http://www.gutenberg.org/2009/agents/6101
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 19th century'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Drama'
+- !lcc 'PS'
+title: 'Representative Plays by American Dramatists: 1856-1911: Love in ''76
+
+  An Incident of the Revolution'
+url: http://www.gutenberg.org/ebooks/15519
